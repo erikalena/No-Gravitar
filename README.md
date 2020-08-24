@@ -66,5 +66,6 @@ Contact details:
 - erika.lena@gmail.com
 - martiross99@gmail.com
 
+Please let us know if you have any further questions or any kind of issues.
 
 [Back To The Top](#No-Gravitar)
