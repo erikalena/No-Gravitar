@@ -20,7 +20,7 @@ No Gravitar is a spaceship game for PC. The main difference with *Gravitar (Atar
 The player controls a little spaceship and moves with it through different solar systems and planets. On each planet, there are multiple bunkers: in order to conquer the planet the user has to destroy them all. Once all the planets are destroyed, the solar system is conquered and the game moves to the next one.
 The player must be careful to not get himself shot and to not run out of fuel.   
 
-# Gameplay
+## Gameplay
 
 The player can use left and right arrow to rotate, while up and down arrow allow the user to move in the chosen direction. Up arrow also allows to speed up. 
 To land on a planet is sufficient to pass over it with the spacecraft. Space bar is for shoting while tab key is to activate tractor beam that allows you to collect fuel.
@@ -32,55 +32,19 @@ To land on a planet is sufficient to pass over it with the spacecraft. Space bar
 
 ## How To Use
 
-#### Installation
+## Installation
 
 
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+This project has been carried out by: *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.
 
-[Back To The Top](#read-me-template)
+Contact details:
+    -  sofiagavanelli@gmail.com
+    -  erika.lena@gmail.com
+    -  martiross99@gmail.com
+
+
+[Back To The Top](#No-Gravitar)
