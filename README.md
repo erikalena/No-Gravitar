@@ -22,9 +22,10 @@ The player must be careful to not get himself shot and to not run out of fuel.
 
 # Gameplay
 
-- Technology 1
-- Technology 2
+The player can use left and right arrow to rotate, while up and down arrow allow the user to move in the chosen direction. Up arrow also allows to speed up. 
+To land on a planet is sufficient to pass over it with the spacecraft. Space bar is for shoting while tab key is to activate tractor beam that allows you to collect fuel.
 
+![](images/fuel.jpg)
 [Back To The Top](#No-Gravitar)
 
 ---
