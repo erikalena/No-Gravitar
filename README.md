@@ -25,7 +25,7 @@ The player must be careful to not get himself shot and to not run out of fuel.
 - Technology 1
 - Technology 2
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#No-Gravitar)
 
 ---
 
