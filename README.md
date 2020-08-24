@@ -16,6 +16,7 @@
 ## Description
 
 No Gravitar is a spaceship game for PC. The main difference with *Gravitar (Atari, 1982)* is that in this one ther is no gravity at all. 
+(Gravitar live demo at [link](https://my.ign.com/atari/gravitar)).
 The player controls a little spaceship and moves with it through different solar systems and planets. On each planet, there are multiple bunkers: in order to conquer the planet the user has to destroy them all. Once all the planets are destroyed, the solar system is conquered and the game moves to the next one.
 The player must be careful to not get himself shot and to not run out of fuel.   
 For our game we have chosen a minimalist graphic design given by simple geometric shapes, in line with the original game.
@@ -31,7 +32,9 @@ To land on a planet is sufficient to pass over it with the spacecraft. Space bar
 
 ---
 
-## How To Use
+## Dependencies
+
+This project has been fully written in C++ language, using SFML library. For more about SFML click [here](https://www.sfml-dev.org/).
 
 ## Installation
 
