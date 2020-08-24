@@ -42,9 +42,9 @@ To land on a planet is sufficient to pass over it with the spacecraft. Space bar
 This project has been carried out by: *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.
 
 Contact details:
-    -  sofiagavanelli@gmail.com
-    -  erika.lena@gmail.com
-    -  martiross99@gmail.com
+- sofiagavanelli@gmail.com
+- erika.lena@gmail.com
+- martiross99@gmail.com
 
 
 [Back To The Top](#No-Gravitar)
