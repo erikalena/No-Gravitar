@@ -8,6 +8,7 @@
 
 - [Description](#description)
 - [Gameplay](#gameplay)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Author Info](#author-info)
 
