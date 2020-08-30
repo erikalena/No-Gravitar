@@ -59,7 +59,8 @@ cd windows
 
 ## Author Info
 
-This project has been carried out by: *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.
+This project has been developed as part of 'Programming' course at the University of Bologna;<br>
+all the code has been been written by: *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.
 
 Contact details:
 - sofiagavanelli@gmail.com
