@@ -70,3 +70,6 @@ Contact details:
 Please let us know if you have any further questions or any kind of issues.
 
 [Back To The Top](#No-Gravitar)
+
+| ![](images/quaderno2.jpg) | ![](images/quaderno.jpg) |
+|:---:|:---:|
