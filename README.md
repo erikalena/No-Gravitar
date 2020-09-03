@@ -24,8 +24,8 @@ For our game we have chosen a minimalist graphic design given by simple geometri
 
 ## Gameplay
 
-The player can use left and right arrow to rotate, while up and down arrow allow the user to move in the chosen direction. Up arrow also allows to speed up. 
-To land on a planet is sufficient to pass over it with the spacecraft. Space bar is for shoting while tab key is to activate tractor beam that allows you to collect fuel.
+The player can use left and right arrows to rotate, while up and down arrows allow the user to move in the chosen direction. Up arrow also allows to speed up. 
+To land on a planet is sufficient to pass over it with the spacecraft. Space bar is for shoting while tab key is for activate tractor beam that allows you to collect fuel.
 
 ![](images/fuel.jpg) ![](images/pause.jpg)
 [Back To The Top](#No-Gravitar)
