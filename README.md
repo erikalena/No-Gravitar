@@ -65,7 +65,7 @@ all the code has been been written by: *Sofia Gavanelli*, *Erika Lena*, *Martina
 
 Contact details:
 - sofiagavanelli@gmail.com
-- erika.lena@gmail.com
+- lena.erika@gmail.com
 - martiross99@gmail.com
 
 Please let us know if you have any further questions or any kind of issues.
